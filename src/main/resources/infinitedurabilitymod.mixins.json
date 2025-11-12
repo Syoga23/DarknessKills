@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.syoga78.infinitedurability.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "infintedurabilitymod.refmap.json",
+  "mixins": [
+    "ItemStackMixin"
+  ],
+  "client": [],
+  "server": []
+}
